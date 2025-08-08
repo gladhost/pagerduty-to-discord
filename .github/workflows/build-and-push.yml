@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: henri9813/pagerduty-to-discord:${{ github.ref_name }}
+          tags: gladhost/pagerduty-to-discord:${{ github.ref_name }}
